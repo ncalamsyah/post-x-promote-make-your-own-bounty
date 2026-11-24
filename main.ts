@@ -1,3 +1,4 @@
+// The X post URL to be scored lives in POST.json ({"url": ...}) and is copied to the output dir unchanged.
 import { copyFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 

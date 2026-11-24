@@ -1,6 +1,6 @@
 # post-x-promote-make-your-own-bounty
 
-Entry for the make.fun bounty `post-x-promote-make-your-own-bounty-01`. `main.ts` copies `POST.json` (the link to the promotional X post) from the bot directory to the output directory.
+Entry for the make.fun bounty `post-x-promote-make-your-own-bounty-01`. `main.ts` copies `POST.json` (the link to the promotional X post by [@schtoltheim](https://x.com/schtoltheim)) from the bot directory to the output directory.
 
 [![bounty](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
 [![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/ncalamsyah/post-x-promote-make-your-own-bounty/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)

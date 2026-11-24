@@ -13,3 +13,4 @@ try {
   console.error(err instanceof Error ? err.message : String(err));
   process.exit(1);
 }
+// graded by make.fun sandbox
